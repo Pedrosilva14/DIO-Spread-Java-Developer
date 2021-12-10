@@ -1,0 +1,19 @@
+anotações intellij 
+
+atalhos 
+
+main - para criar public void .. 
+
+sout -para criar o println
+
+control + shift +f10 para roda o programa na primeira vez 
+
+shift +f10 para roda o programa aparti da segunda  vez
+
+Alt+ Insert para abrir a opção de contrutor 
+
+ctrl+shift + barra comenta  e descomenta o bloco de codigo selecionado
+
+ctrl + barra comenta  e descomenta o bloco de codigo selecionado linha por linha
+
+Alt+ enter para importar glasse
