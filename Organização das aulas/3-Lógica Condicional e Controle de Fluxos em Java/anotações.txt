@@ -1,0 +1,66 @@
+logica em java
+
+
+-Operadores relacionais 
+
+
+== iguadade 
+!= diferente 
+
+Maior >
+Maior Igual >=
+
+Menor < 
+Menor ou igual <=
+
+-operadores logicos 
+
+conjução:  &&(e/end)  só será verdadeiro se os dois forem verdadeiros
+
+dijução || (ou /or) somente sera falso se as as duas condições forem falsas 
+
+Dijunção exclusiva ^(xor) só é verdadeira se ambas as condições forem contrarias 
+
+Negação: !(inversão) investi a operação  
+
+ESTRUTURA DE CONTROLE DE FLUXO
+
+IF(SE) - if, if-else, if-else-if, if-else-if-else
+
+ex: if (condição )
+    {   comando
+
+    } else { comando
+           }
+   
+
+Switch(Escolha )
+variaveis usadas: byte short char int enum String 
+
+EX: switch(variável){
+    case: 
+    break;
+
+    case; ...: 
+    break;
+
+    default: (caso não entre em nenhuma condição)
+    break;
+  }
+
+
+  }
+
+
+
+
+
+Operador ternario
+
+Condição ? true: falser;  Condição ? true: null; 
+
+ex:  Ligado ? desligado:  emMovimento ? freia : null:
+
+
+
+

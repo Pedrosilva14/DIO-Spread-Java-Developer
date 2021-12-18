@@ -17,3 +17,13 @@ ctrl+shift + barra comenta  e descomenta o bloco de codigo selecionado
 ctrl + barra comenta  e descomenta o bloco de codigo selecionado linha por linha
 
 Alt+ enter para importar glasse
+
+control + alt +l organiza o codigo
+
+control + D  duplica a linha 
+
+control + Y deleta linha 
+
+control + shift + seta para cima ou para baixo move a linha selecionada 
+
+outros atalhos: https://digitalinnovation.one/artigos/atalhos-no-intellij
